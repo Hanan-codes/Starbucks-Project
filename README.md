@@ -4,12 +4,11 @@ This data set contains simulated data that mimics customer behavior on the Starb
 
 Not all users receive the same offer, and that is the challenge to solve with this data set.
 ## Problem Statement
-The analysis aimed at predicting how the customer will interact with the offers that Starbuck will send foloowing these steps <br> 
-1- prepared - clean the 3 data sets <br> 
-2- merged the profile and transaction data <br> 
-3- build the model using Decision Tree Classifier, Linear regression, Random forest models <br> 
-4- Accuracy score is the best metrics to measure my  models performance by finding accurate predictions among the 3 models
-
+The analysis aimed at predicting how the customer will interact with the offers that Starbuck will send following these steps </br>
+1- prepared - clean the 3 data sets</br>
+2- merged the profile and transaction data</br>
+3- build the model using Decision Tree Classifier, Linear regression, Random forest models</br>
+4- Accuracy score is the best metric to measure my models performance by finding accurate predictions among the 3 models</br>
 ##
 ## Installation
 Anaconda Distribution has most of the libraries necessary for the analysis done.
