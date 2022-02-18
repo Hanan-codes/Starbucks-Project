@@ -25,3 +25,5 @@ Anaconda Distribution has most of the libraries necessary for the analysis done.
                     -profile.json - demographic data for each customer
                     -transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
+### Blog post link 
+https://medium.com/@hannan.alsufyani/starbucks-capstone-project-e44b4a08d968
